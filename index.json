@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-invitations",
+  "versions": [
+    {
+      "commit": "378b2f59efde51decb5345450c8c9e9d593cb641",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:44:19.913497+00:00"
+    }
+  ]
+}
